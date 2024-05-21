@@ -1,5 +1,5 @@
 # Pokemon_RL
-Training an agent to play simplified version of pokemon using reinforcement learning. The current implementation uses an epsilon-greedy exploration strategy but in the future thomson sampling might also be added for comparison. The current implementation also uses a handcrafted policy for the agent to play against, but a MCTS might be added so the agent learns to play against a more dynamic opponent. 
+Training an agent to play simplified version of pokemon using reinforcement learning. The current implementation uses an epsilon-greedy exploration strategy but in the future thompson sampling might also be added for comparison. The current implementation also uses a handcrafted policy for the agent to play against, but a MCTS might be added so the agent learns to play against a more dynamic opponent. 
 
 ## Game UI:
 
